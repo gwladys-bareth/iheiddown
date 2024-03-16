@@ -115,7 +115,8 @@ citecolor=red,filecolor=red,urlcolor=black]{hyperref} % uses IHEID red for exter
 % \usepackage[style=authoryear, sorting=nyt, backend=biber, maxcitenames=2, useprefix, doi=false, isbn=false]{biblatex}
 % \newcommand*{\bibtitle}{Works Cited}
 
-\usepackage[style=numeric-comp, sorting=none, backend=biber, doi=false, isbn=false]{biblatex}
+\usepackage[style=numeric-comp, sorting=none, backend=biber, doi=true, isbn=true, maxcitenames=2, useprefix]{biblatex}
+% \usepackage[style=numeric, sorting=$bib-sorting$, backend=biber, maxcitenames=2, useprefix, doi=true, isbn=true, uniquename=false]{biblatex}
 %-----------------------------------------------------
 % More versatile and less restrictive version that lets users apply biblatex style options from the Yaml header in the index.Rmd file.
 % Uncomment and copy the YAML part below in the YAML header of your Index file.
