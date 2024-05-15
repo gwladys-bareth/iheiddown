@@ -7,7 +7,6 @@ knit: iheiddown::chapter_pdf
 output: iheiddown::chapter_pdf
 ---
 
-\setcounter{chapter}{2}
 # Methods {#methods}
 
 Your methods section will discuss the approach you will take for your dissertation.

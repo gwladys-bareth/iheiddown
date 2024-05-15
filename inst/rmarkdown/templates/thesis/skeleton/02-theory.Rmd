@@ -14,7 +14,6 @@ abstract: |
 output: iheiddown::chapter_pdf
 ---
 
-\setcounter{chapter}{1}
 # Theory {#theory}
 
 ## Referencing

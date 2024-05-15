@@ -7,7 +7,6 @@ knit: iheiddown::chapter_pdf
 output: iheiddown::chapter_pdf
 ---
 
-\setcounter{chapter}{4}
 # Conclusion {#conclusion}
 
 In sum, `{iheiddown}` offers an easy way to write IHEID-consistent theses,

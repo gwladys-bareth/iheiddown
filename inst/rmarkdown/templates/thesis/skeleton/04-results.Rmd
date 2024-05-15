@@ -7,7 +7,6 @@ knit: iheiddown::chapter_pdf
 output: iheiddown::chapter_pdf
 ---
 
-\setcounter{chapter}{3}
 # Results {#results}
 
 ## An intro to R chunks
